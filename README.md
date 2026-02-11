@@ -22,8 +22,11 @@ This project emphasizes:
 
 ## 🛠️ Tech Stack
 
-- ⚡ **Vite** – Fast build tool & dev environment  
-- 🎨 **Tailwind CSS** – Utility-first styling  
+- ⚛️ **React** – Component-based UI development  
+- 🎞️ **Framer Motion** – Advanced animations & transitions  
+- 🎨 **Tailwind CSS** – Utility-first modern styling  
+- ⚡ **Vite** – High-speed build tool & dev environment  
+- 🎯 **React Icons** – Scalable vector icons & UI enhancement  
 - 🧱 **HTML5**  
 - 🎯 **JavaScript (ES6+)**  
 - 🎨 **CSS3**
